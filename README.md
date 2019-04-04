@@ -27,4 +27,4 @@ translater：
  7. Except for 0 check (compilation phase) is not supported ；
 
 contact：
-If you need to contact me, please send a message to my email: 1903779819@qq.com or WeChat: lc01000101
+If you need to contact me, please send a message to my email: 1903779819@qq.com ;
