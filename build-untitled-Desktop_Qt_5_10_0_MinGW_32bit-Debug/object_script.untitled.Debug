@@ -1,0 +1,16 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\parser.o
+./debug\scanner.o
+./debug\codeeditor.o
+./debug\information.o
+./debug\compiler.o
+./debug\symboltable.o
+./debug\varmanage.o
+./debug\executor.o
+./debug\userfunc.o
+./debug\function.o
+./debug\moc_mainwindow.o
+./debug\moc_codeeditor.o
+);

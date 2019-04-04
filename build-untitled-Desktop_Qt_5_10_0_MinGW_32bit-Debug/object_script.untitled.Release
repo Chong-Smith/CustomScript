@@ -1,0 +1,16 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\parser.o
+./release\scanner.o
+./release\codeeditor.o
+./release\information.o
+./release\compiler.o
+./release\symboltable.o
+./release\varmanage.o
+./release\executor.o
+./release\userfunc.o
+./release\function.o
+./release\moc_mainwindow.o
+./release\moc_codeeditor.o
+);
